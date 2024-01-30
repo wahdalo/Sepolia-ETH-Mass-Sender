@@ -3,8 +3,11 @@ Exampel SETH sender to multiple address at once
 
 ## Install
 > git clone https://github.com/wahdalo/Sepolia-ETH-Mass-Sender.git
+
 > cd Sepolia-ETH-Mass-Sender
+
 > npm i
+
 > node index.js
 
 
